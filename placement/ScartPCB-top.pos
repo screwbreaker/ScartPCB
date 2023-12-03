@@ -1,0 +1,31 @@
+### Module positions - created on dom 6 nov 2022, 10:24:39 ###
+### Printed by Pcbnew version 6.0.8-f2edbf62ab~116~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                 PosX       PosY       Rot  Side
+C0        100nF                C_0402_1005Metric    29.8050    11.9860  -90.0000  top
+CB1       100uF                C_1206_3216Metric    29.7970     7.5410  -90.0000  top
+CB2       100uF                C_1206_3216Metric    32.2100     7.5410  -90.0000  top
+CB3       22uF                 C_0603_1608Metric    27.7650     6.3980  -90.0000  top
+CC1       DNC                  C_1206_3216Metric     8.0880     8.5570  180.0000  top
+CC2       DNC                  C_1206_3216Metric     4.0240     6.1440  180.0000  top
+CG1       100uF                C_1206_3216Metric    24.5900     7.5410  -90.0000  top
+CG2       100uF                C_1206_3216Metric    22.1770     7.5410  -90.0000  top
+CG3       22uF                 C_0603_1608Metric    20.1450     6.3980  -90.0000  top
+CR1       100uF                C_1206_3216Metric    17.0970     7.5410  -90.0000  top
+CR2       100uF                C_1206_3216Metric    14.6840     7.5410  -90.0000  top
+CR3       22uF                 C_0603_1608Metric    12.6520     6.3980  -90.0000  top
+J1        Conn_02x10_Odd_Even  SCART                 2.4735    -0.0680    0.0000  top
+JI1       Conn_01x01           PAD2x2               19.9889    14.3355   25.0000  top
+JI2       Conn_01x01           PAD2x2               22.8729    15.6690   25.0000  top
+JI3       Conn_01x01           PAD2x2               25.7568    17.0025   25.0000  top
+JI5       Conn_01x01           PAD2x2               30.6940    14.7800   25.0000  top
+JI9       Conn_01x01           PAD2x2               28.6620    18.3360   25.0000  top
+JI12      Conn_01x01           PAD2x2               17.1050    13.0020   25.0000  top
+RB1       75                   R_0402_1005Metric    28.0190     8.9380  -90.0000  top
+RB2       DNC                  R_0402_1005Metric    28.4588    10.4620    0.0000  top
+RG1       75                   R_0402_1005Metric    20.3990     8.9380  -90.0000  top
+RG2       DNC                  R_0402_1005Metric    20.8642    10.4366  180.0000  top
+RR1       75                   R_0402_1005Metric    12.9060     8.9380  -90.0000  top
+RR2       DNC                  R_0402_1005Metric    13.3712    10.4366  180.0000  top
+## End

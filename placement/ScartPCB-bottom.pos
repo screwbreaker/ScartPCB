@@ -1,0 +1,32 @@
+### Module positions - created on dom 6 nov 2022, 10:24:39 ###
+### Printed by Pcbnew version 6.0.8-f2edbf62ab~116~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                 PosX       PosY       Rot  Side
+C1        4.7uF             C_0402_1005Metric   -33.1640     7.6020   90.0000  bottom
+C2        10pF              C_0402_1005Metric   -27.8515     7.6700   90.0000  bottom
+C3        1uF               C_0402_1005Metric   -25.1848     7.0838  180.0000  bottom
+C5        100nF             C_0402_1005Metric    -9.5104     8.9380   90.0000  bottom
+CC3       50nF              C_0603_1608Metric    -2.9572     5.7376  180.0000  bottom
+CC4       10pF              C_0603_1608Metric    -8.2150     8.0301   90.0000  bottom
+D1        D_Schottky        D_0402_1005Metric   -34.3070     7.6020   90.0000  bottom
+D2        D_Schottky        D_0402_1005Metric   -27.4682     6.0932    0.0000  bottom
+JI4       Conn_01x01        PAD2x2              -19.9889    14.3355   25.0000  bottom
+JI6       Conn_01x01        PAD2x2              -25.7568    17.0025   25.0000  bottom
+JI7       Conn_01x01        PAD2x2              -22.8729    15.6690   25.0000  bottom
+JI8       Conn_01x01        PAD2x2              -30.6940    14.7800   25.0000  bottom
+JI10      Conn_01x01        PAD2x2              -28.6620    18.3360   25.0000  bottom
+JI11      Conn_01x01        PAD2x2              -17.1050    13.0020   25.0000  bottom
+L1        10uH              L_0603_1608Metric   -30.5670     5.8240  180.0000  bottom
+R1        1.6M              R_0402_1005Metric   -26.7085     7.6700   90.0000  bottom
+R2        200K              R_0402_1005Metric   -25.2076     8.1252  180.0000  bottom
+R3        1K                R_0402_1005Metric   -25.2076     6.0424  180.0000  bottom
+R5        10K               R_0402_1005Metric   -12.2480    10.7060    0.0000  bottom
+R6        10K               R_0402_1005Metric   -14.3110    10.7160    0.0000  bottom
+R9        180               R_0402_1005Metric   -11.8980     5.5090  180.0000  bottom
+RC1       300               R_0402_1005Metric    -5.0400     5.9408  -90.0000  bottom
+RC2       DNC               R_0402_1005Metric    -5.4972     7.4648  180.0000  bottom
+RC3       DNC               R_0402_1005Metric    -6.5386     5.6360    0.0000  bottom
+U1        TPS61040DBVR      TPS61040DBVR        -30.4970     8.4910    0.0000  bottom
+U2        SN74AHC1G125DBVR  SN74AHC1G125DBVR    -12.2790     8.3792  180.0000  bottom
+## End
