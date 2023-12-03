@@ -1,7 +1,7 @@
 # ScartPCB
 A little PCB to buld a SCART cable for console and old computers
 
-![Board](https://raw.githubusercontent.com/screwbreaker/ScartPCB/master/render/ScartPCB-bottom.png)
+![Board](https://github.com/screwbreaker/ScartPCB/blob/main/Render/ScartPCB-bottom.png?raw=true)
 
 ### Summary
 This is a little PCB made to make easy to assemble a SCART cable for console and old computers.
