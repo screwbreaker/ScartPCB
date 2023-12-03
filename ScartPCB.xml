@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/francesco/Sviluppo/Elettronica/KiCad/project/screwbreaker/ScartPCB/ScartPCB.kicad_sch</source>
+    <date>dom 6 nov 2022, 10:25:36</date>
+    <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ScartPCB</title>
+        <company>screwbreaker</company>
+        <rev>1.0</rev>
+        <date>2022-09-04</date>
+        <source>ScartPCB.kicad_sch</source>
+        <comment number="1" value="A PCB for console SCART connector"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C0">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/UPY_NP0X5R_01005_4V_to_25V_V10-3003057.pdf</datasheet>
+      <fields>
+        <field name="Description"> 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">YAEGO</field>
+        <field name="Manufacturer_Part_Number">CC0402KRX7R7BB104</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAEGO"/>
+      <property name="Manufacturer_Part_Number" value="CC0402KRX7R7BB104"/>
+      <property name="Description" value=" 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95d2183a-e264-4f90-b2a3-184c788e4b15</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/Kyocera_AVX_Components_CT_Series_e-2933596.pdf</datasheet>
+      <fields>
+        <field name="Description"> 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Kyocera AVX</field>
+        <field name="Manufacturer_Part_Number">CM05X5R475M25AH</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Kyocera AVX"/>
+      <property name="Manufacturer_Part_Number" value="CM05X5R475M25AH"/>
+      <property name="Description" value=" 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ad6045c-fc17-4d79-8b02-c9877247cbd0</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf</datasheet>
+      <fields>
+        <field name="Description"> 50V 10pF NP0 ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Walsin</field>
+        <field name="Manufacturer_Part_Number">0402N100J500CT</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Walsin"/>
+      <property name="Manufacturer_Part_Number" value="0402N100J500CT"/>
+      <property name="Description" value=" 50V 10pF NP0 ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d491a5e5-d32b-4bae-91a3-3287a4da30b9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM155R61E105MA12_01A-1983855.pdf</datasheet>
+      <fields>
+        <field name="Description"> 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM155R61E105MA12D </field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM155R61E105MA12D "/>
+      <property name="Description" value=" 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c74b2948-ea38-464c-b273-9a3cf88a70e1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/UPY_NP0X5R_01005_4V_to_25V_V10-3003057.pdf</datasheet>
+      <fields>
+        <field name="Description"> 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">YAEGO</field>
+        <field name="Manufacturer_Part_Number">CC0402KRX7R7BB104</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="YAEGO"/>
+      <property name="Manufacturer_Part_Number" value="CC0402KRX7R7BB104"/>
+      <property name="Description" value=" 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dec3007-a462-4d2d-a00f-438669bb4c55</tstamps>
+    </comp>
+    <comp ref="CB1">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f21ed8a8-4dbe-41bd-bbe5-4d0f2da80072</tstamps>
+    </comp>
+    <comp ref="CB2">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd6635ba-cacd-4a2e-aa2c-b080b7c93bba</tstamps>
+    </comp>
+    <comp ref="CB3">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Manufacturer_Part_Number">CL10A226MP8NUNE</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Manufacturer_Part_Number" value="CL10A226MP8NUNE"/>
+      <property name="Description" value=" 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c30ce67f-5a90-482d-bf7d-2be84df459fd</tstamps>
+    </comp>
+    <comp ref="CC3">
+      <value>50nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/UPY_NP0X5R_01005_4V_to_25V_V10-3003057.pdf</datasheet>
+      <fields>
+        <field name="Description">50V 47nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Yaego</field>
+        <field name="Manufacturer_Part_Number">CC0603KRX7R9BB473</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yaego"/>
+      <property name="Manufacturer_Part_Number" value="CC0603KRX7R9BB473"/>
+      <property name="Description" value="50V 47nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66c4f955-5301-4c69-a922-8aa05852692f</tstamps>
+    </comp>
+    <comp ref="CC4">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/UPY_NP0X5R_01005_4V_to_25V_V10-3003057.pdf</datasheet>
+      <fields>
+        <field name="Description"> 50V 10pF NP0 ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Yaego</field>
+        <field name="Manufacturer_Part_Number">CC0603JRNPO9BN100</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yaego"/>
+      <property name="Manufacturer_Part_Number" value="CC0603JRNPO9BN100"/>
+      <property name="Description" value=" 50V 10pF NP0 ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d90c2c5-5408-4bfa-b06a-8dea7896ebb3</tstamps>
+    </comp>
+    <comp ref="CG1">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eacc3101-923b-4cf6-83db-d6363a7f5e73</tstamps>
+    </comp>
+    <comp ref="CG2">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22525c89-faba-463d-a68d-f836027a8584</tstamps>
+    </comp>
+    <comp ref="CG3">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Manufacturer_Part_Number">CL10A226MP8NUNE</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Manufacturer_Part_Number" value="CL10A226MP8NUNE"/>
+      <property name="Description" value=" 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a996f98-d382-4ed5-b322-20f1a250b959</tstamps>
+    </comp>
+    <comp ref="CR1">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6424d769-d86a-4cfb-bd26-1bdf5db3f183</tstamps>
+    </comp>
+    <comp ref="CR2">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/281/1/GRM31CR61A107ME05_01A-2066674.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM31CR61A107ME05L</field>
+        <field name="Package">1206</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM31CR61A107ME05L"/>
+      <property name="Description" value=" 10V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="1206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>789459f3-4c1f-4515-9b60-aa2a7c1e02a4</tstamps>
+    </comp>
+    <comp ref="CR3">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/585/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="Description"> 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS </field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Manufacturer_Part_Number">CL10A226MP8NUNE</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Manufacturer_Part_Number" value="CL10A226MP8NUNE"/>
+      <property name="Description" value=" 10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6988e0f-e804-491e-a3aa-bc3277583e70</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/80/CDBQR0130R_HF_RevC796140-2489182.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Comchip Technology</field>
+        <field name="Manufacturer_Part_Number">CDBQR0130R-HF</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Manufacturer" value="Comchip Technology"/>
+      <property name="Manufacturer_Part_Number" value="CDBQR0130R-HF"/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a39e5eb2-be6c-48d3-a697-8ccc668a6f46</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/80/CDBQR0130R_HF_RevC796140-2489182.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Comchip Technology</field>
+        <field name="Manufacturer_Part_Number">CDBQR0130R-HF</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Manufacturer" value="Comchip Technology"/>
+      <property name="Manufacturer_Part_Number" value="CDBQR0130R-HF"/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d946f411-6abb-4c38-90c9-0dbb534fa254</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz1608_en.pdf</datasheet>
+      <fields>
+        <field name="Description"> 250mA 10uH ±20% 90mA 1.05Ω 0603 Inductors (SMD) ROHS </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="Manufacturer_Part_Number">MLZ1608M100WT000</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="MLZ1608M100WT000"/>
+      <property name="Description" value=" 250mA 10uH ±20% 90mA 1.05Ω 0603 Inductors (SMD) ROHS "/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4987fd56-8b56-410b-ad4a-cd7153a0e43b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.6M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1.6MΩ 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">YAEGO</field>
+        <field name="Manufacturer_Part_Number">RC0402FR-071M6L</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="YAEGO"/>
+      <property name="Manufacturer_Part_Number" value="RC0402FR-071M6L"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1.6MΩ 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b36a204-7236-490b-b8f8-497179bf3ac5</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>200K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 200kΩ 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">0402WGF2003TCE </field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="0402WGF2003TCE "/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 200kΩ 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3f0e837-8574-4a8c-8ab6-777156b52493</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/1365/GeneralPurpose-2498088.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">https://www.mouser.it/datasheet/2/1365/GeneralPurpose-2498088.pdf</field>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">0402WGF1001TCE</field>
+        <field name="Package">0402</field>
+        <field name="Reference">R3</field>
+        <field name="Value">1K</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="0402WGF1001TCE"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Package" value="0402"/>
+      <property name="Datasheet" value="https://www.mouser.it/datasheet/2/1365/GeneralPurpose-2498088.pdf"/>
+      <property name="Footprint" value="Resistor_SMD:R_0402_1005Metric"/>
+      <property name="Reference" value="R3"/>
+      <property name="Value" value="1K"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2366f82-7cf6-4aee-bd25-1936bf03ffe5</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Manufacturer">Yaego</field>
+        <field name="Manufacturer_Part_Number">RC0402JR-0710KL</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Yaego"/>
+      <property name="Manufacturer_Part_Number" value="RC0402JR-0710KL"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccb6d79a-f320-4a8e-b9b9-5b038846f271</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Manufacturer">Yaego</field>
+        <field name="Manufacturer_Part_Number">RC0402JR-0710KL</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Yaego"/>
+      <property name="Manufacturer_Part_Number" value="RC0402JR-0710KL"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87721852-ae87-4dcf-9cfe-4253a80e15c4</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>180</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/1365/HighPowerHP-2498106.pdf</datasheet>
+      <fields>
+        <field name="Description">100mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 180Ω 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">HP02WAF1800TCE</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="HP02WAF1800TCE"/>
+      <property name="Description" value="100mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 180Ω 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f48eec-653f-4ecd-ae34-36d81ea06e44</tstamps>
+    </comp>
+    <comp ref="RB1">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/1365/GeneralPurpose-2498088.pdf</datasheet>
+      <fields>
+        <field name="Description"> 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">0402WGF750JTCE</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="0402WGF750JTCE"/>
+      <property name="Description" value=" 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>267cc215-7152-4f5b-8236-150b6cebc44c</tstamps>
+    </comp>
+    <comp ref="RC1">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.mouser.it/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 300Ω 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Yaego</field>
+        <field name="Manufacturer_Part_Number">RC0402JR-07300RL</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Yaego"/>
+      <property name="Manufacturer_Part_Number" value="RC0402JR-07300RL"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±5% -55℃~+155℃ 300Ω 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aefb908-976d-4951-8e1f-7acbbc7638bd</tstamps>
+    </comp>
+    <comp ref="RG1">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/1365/GeneralPurpose-2498088.pdf</datasheet>
+      <fields>
+        <field name="Description"> 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">0402WGF750JTCE</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="0402WGF750JTCE"/>
+      <property name="Description" value=" 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8006d397-88f8-46ad-9623-99ec7662e015</tstamps>
+    </comp>
+    <comp ref="RR1">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/1365/GeneralPurpose-2498088.pdf</datasheet>
+      <fields>
+        <field name="Description"> 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS </field>
+        <field name="Manufacturer">Royalohm</field>
+        <field name="Manufacturer_Part_Number">0402WGF750JTCE</field>
+        <field name="Package">0402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Royalohm"/>
+      <property name="Manufacturer_Part_Number" value="0402WGF750JTCE"/>
+      <property name="Description" value=" 62.5mW 50V ±100ppm/℃ ±1% -55℃~+155℃ 75Ω 0402 Chip Resistor - Surface Mount ROHS "/>
+      <property name="Package" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b86024a8-69b1-4198-8882-7e4c4b5d3873</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS61040DBVR</value>
+      <footprint>Footprints:TPS61040DBVR</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tps61040.pdf</datasheet>
+      <fields>
+        <field name="Description">28-V, 400-mA Switch Boost Converter in SOT-23 for LCD and White LED Applications</field>
+        <field name="Manufacturer"> Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS61040DBVR</field>
+        <field name="Package">SOT-23-5</field>
+      </fields>
+      <libsource lib="TPS61040DBVR" part="TPS61040DBVR" description=""/>
+      <property name="Manufacturer" value=" Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPS61040DBVR"/>
+      <property name="Description" value="28-V, 400-mA Switch Boost Converter in SOT-23 for LCD and White LED Applications"/>
+      <property name="Package" value="SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38fc8876-8aa8-4de9-ae74-061fb35a4094</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SN74AHC1G125DBVR</value>
+      <footprint>Footprints:SN74AHC1G125DBVR</footprint>
+      <datasheet>https://www.ti.com/cn/lit/ds/symlink/sn74ahc1g125.pdf</datasheet>
+      <fields>
+        <field name="Description">Tri-State 8mA Buffers，Unidirectional Voltage Level Translators 2V~5.5V 8mA -40℃~+125℃ SOT-23-5 Buffers / Drivers ROHS </field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74AHC1G125DBVR</field>
+        <field name="Package">SOT-23-5</field>
+      </fields>
+      <libsource lib="SN74AHC1G125DBVR" part="SN74AHC1G125DBVR" description=""/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="SN74AHC1G125DBVR"/>
+      <property name="Description" value="Tri-State 8mA Buffers，Unidirectional Voltage Level Translators 2V~5.5V 8mA -40℃~+125℃ SOT-23-5 Buffers / Drivers ROHS "/>
+      <property name="Package" value="SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ScartPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05a99c90-2c1f-4cae-82dc-e6600e813efa</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x10_Odd_Even">
+      <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x10_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SN74AHC1G125DBVR" part="SN74AHC1G125DBVR">
+      <footprints>
+        <fp>DBV5</fp>
+        <fp>DBV5-M</fp>
+        <fp>DBV5-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74AHC1G125DBVR</field>
+        <field name="Footprint">DBV5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="*OE" type="input"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS61040DBVR" part="TPS61040DBVR">
+      <footprints>
+        <fp>DBV0005A</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U*</field>
+        <field name="Value">TPS61040DBVR</field>
+        <field name="Footprint">DBV0005A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="SN74AHC1G125DBVR">
+      <uri>/home/francesco/Sviluppo/Elettronica/KiCad/project/screwbreaker/ScartPCB/Symbols/SN74AHC1G125DBVR.kicad_sym</uri>
+    </library>
+    <library logical="TPS61040DBVR">
+      <uri>/home/francesco/Sviluppo/Elettronica/KiCad/project/screwbreaker/ScartPCB/Symbols/TPS61040DBVR.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C0" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="4" name="B">
+      <node ref="RB1" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="BLUE">
+      <node ref="CB1" pin="2" pintype="passive"/>
+      <node ref="CB2" pin="2" pintype="passive"/>
+      <node ref="CB3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="C">
+      <node ref="U2" pin="2" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="7" name="COMPOSITE_SYNC">
+      <node ref="CC3" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="C_SYNC">
+      <node ref="CC4" pin="1" pintype="passive"/>
+      <node ref="RC1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="9" name="G">
+      <node ref="RG1" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C0" pin="2" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="CC4" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="GREEN">
+      <node ref="CG1" pin="2" pintype="passive"/>
+      <node ref="CG2" pin="2" pintype="passive"/>
+      <node ref="CG3" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(CB1-Pad1)">
+      <node ref="CB1" pin="1" pintype="passive"/>
+      <node ref="CB2" pin="1" pintype="passive"/>
+      <node ref="CB3" pin="1" pintype="passive"/>
+      <node ref="RB1" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(CC2-Pad1)">
+      <node ref="CC3" pin="1" pintype="passive"/>
+      <node ref="RC1" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(CG1-Pad1)">
+      <node ref="CG1" pin="1" pintype="passive"/>
+      <node ref="CG2" pin="1" pintype="passive"/>
+      <node ref="CG3" pin="1" pintype="passive"/>
+      <node ref="RG1" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(CR1-Pad1)">
+      <node ref="CR1" pin="1" pintype="passive"/>
+      <node ref="CR2" pin="1" pintype="passive"/>
+      <node ref="CR3" pin="1" pintype="passive"/>
+      <node ref="RR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="SW" pintype="power_in"/>
+    </net>
+    <net code="20" name="Net-(JP2-Pad2)">
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="*OE" pintype="input"/>
+    </net>
+    <net code="22" name="R">
+      <node ref="RR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="RED">
+      <node ref="CR1" pin="2" pintype="passive"/>
+      <node ref="CR2" pin="2" pintype="passive"/>
+      <node ref="CR3" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="RGB_BLANKING">
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="SWITCH">
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

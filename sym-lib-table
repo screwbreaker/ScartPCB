@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "TPS61040DBVR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TPS61040DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "CDBQR0130R")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CDBQR0130R.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AHC1G125DBVR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74AHC1G125DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "void")(type "KiCad")(uri "${KIPRJMOD}/Symbols/void.kicad_sym")(options "")(descr ""))
+)
