@@ -93,6 +93,7 @@ Initially I tought that this is because I bought the cheapest SCART connector av
 But even the ones bought on trusth resellers or on electronic shops have this issue.
 So, I made a replacement that can be 3D printed. It's far to be perfect, I have no skills on 3D printing. But it do the job.
 The stl file can be founded here:
+![SCART_cable_gland](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/SCART_cable_gland.jpg?raw=true)
 
 ### License
 The PCBs are under the CERN OHL license.
