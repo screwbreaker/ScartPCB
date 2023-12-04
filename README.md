@@ -12,8 +12,8 @@ And that's pefectly fine. Except for systems like the Mega Drive, that require a
 So I thought to buld a little PCB that fit inside the SCART connector in oder to make everythg more easy and clean.
 
 As example here a comparison between my old handmade cable, and the new one with this PCB:
-![OLD](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/OLD.png?raw=true)
-![NEW](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/NEW.png?raw=true)
+![OLD](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/OLD.jpg?raw=true)
+![NEW](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/NEW.jpg?raw=true)
 
 Of course, there are other project like this around. But none of them have all the stuff I wanted.
 My requirements was a buffer for the csync and a boost converter for the 12V.
