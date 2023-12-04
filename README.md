@@ -92,7 +92,6 @@ All the SCART connectors I bought have an hawful issue. The cable locker, the pl
 Initially I tought that this is because I bought the cheapest SCART connector available on internet.
 But even the ones bought on trusth resellers or on electronic shops have this issue.
 So, I made a replacement that can be 3D printed. It's far to be perfect, I have no skills on 3D printing. But it do the job.
-The stl file can be founded here:
 ![SCART_cable_gland](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/SCART_cable_gland.jpg?raw=true)
 
 ### License
