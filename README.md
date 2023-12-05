@@ -9,7 +9,7 @@ This is a little PCB made to make easy to assemble a SCART cable for console and
 ### History
 As anyone else I always made my SCART cables by hand, using THT components. And by soldering them directly on the SCART connector.
 And that's pefectly fine. Except for systems like the Mega Drive, that require a lot of componets to be fitted in a small space.
-So I thought to buld a little PCB that fit inside the SCART connector in oder to make everythg more easy and clean.
+So I thought to build a little PCB that fit inside the SCART connector in oder to make everything more easy and clean.
 
 As example here a comparison between my old handmade cable, and the new one with this PCB:
 ![OLD](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/OLD.jpg?raw=true)
