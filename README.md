@@ -73,7 +73,7 @@ Some systems, like Amiga or SNES do have the 12V on the connector. But, due to t
 ### BOM
 The BOM is for a PAL Mega Drive.
 To make SCART cables for other system choose the components according to the specific schematic.
-Use 0 ohm resistor as jumper where needed.
+Use 0 ohm resistors as jumper where needed.
 
 For the boost converter TPS61040DBVR and TPS61041DBVR are equivalent for this application.
 
