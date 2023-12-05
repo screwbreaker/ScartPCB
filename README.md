@@ -90,7 +90,7 @@ Soldering 0402 components by hand require a bit of skill on soldering.
 ### Bonus
 All the SCART connectors I bought have an hawful issue. The cable gland, the plastic thing that close the SCART shell, is made out the most brittle material in the world.
 Initially, I thought that this was because I bought the cheapest SCART connector available on internet.
-But even the ones bought on trusth resellers or on electronic shops have this issue.
+However even the ones bought on trusth resellers or on electronic shops have this issue.
 So, I made a replacement that can be 3D printed. It's far to be perfect, I have no skills on 3D printing. But it do the job.
 ![SCART_cable_gland](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/SCART_cable_gland.jpg?raw=true)
 
