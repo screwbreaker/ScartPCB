@@ -80,16 +80,16 @@ For the boost converter TPS61040DBVR and TPS61041DBVR are equivalent for this ap
 For the buffer any pair of complementary transistors can be used, the package must be SC-70 or equivalent.
 
 ### PCB Manufacturing
-Unfortunately, due to the space contrainst inside the SCART connector, this PCB is a 4 layer board.
+Unfortunately, due to the space constraints inside the SCART connector, this PCB is a 4 layer board.
 And for the same reason, some components are 0402.
 
-The PCB still very cheap to produce, since it is very small, and it use standard via and traces.
+The PCB still very cheap to produce, since it is very small, and it use standard vias and traces.
 
 Soldering 0402 components by hand require a bit of skill on soldering.
 
 ### Bonus
-All the SCART connectors I bought have an hawful issue. The cable locker, the plastic thing that close the SCART shell, is made out the most brittle material in the world.
-Initially I tought that this is because I bought the cheapest SCART connector available on internet.
+All the SCART connectors I bought have an hawful issue. The cable gland, the plastic thing that close the SCART shell, is made out the most brittle material in the world.
+Initially, I thought that this was because I bought the cheapest SCART connector available on internet.
 But even the ones bought on trusth resellers or on electronic shops have this issue.
 So, I made a replacement that can be 3D printed. It's far to be perfect, I have no skills on 3D printing. But it do the job.
 ![SCART_cable_gland](https://github.com/screwbreaker/ScartPCB/blob/main/Pictures/SCART_cable_gland.jpg?raw=true)
